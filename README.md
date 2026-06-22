@@ -18,7 +18,7 @@ A data engineering pipeline that collects real economic data from the Brazilian 
 - **SQLAlchemy** — database loading
 - **SQLite** — local storage
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 bcb-economic-pipeline/
